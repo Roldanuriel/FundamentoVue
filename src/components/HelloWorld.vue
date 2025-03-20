@@ -3,7 +3,7 @@
 </script>
 
 <template>
- <h1>Hola Mundo</h1>
+ <h1>HOLA MUNDO</h1>
  <h2>Bitcoin</h2>
  <p class="tex">El bitcoin es una moneda digital o criptomoneda que puede utilizarse para intercambiar bienes y servicios como cualquier otra moneda en los lugares donde se acepte. El Bitcoin, de símbolo ฿ y abreviatura BTC o XBT, es una moneda electrónica libre y descentralizada que permite la transacción directa sin ningún intermediario.</p>
  <h2>Origen e historia del Bitcoin</h2>
