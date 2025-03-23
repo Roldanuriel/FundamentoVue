@@ -38,7 +38,8 @@
         <div class="card" style="width: 18rem;">
             <img src="https://static.emastered.com/images/blog-assets/7765.webp?v=x0v7elr" class="card-img-top" alt="bateria">
             <div class="card-body text-center">
-                <p class="card-text">Decir que la batería es crucial en el jazz sería quedarse corto. Además, los baterías de jazz suelen ser una fuerza a tener en cuenta, no sólo manteniendo el tempo, sino también añadiendo síncopas y evolucionando la dinámica para impulsar la intensidad de una pieza.</p>
+                <p class="card-text">Decir que la batería es crucial en el jazz sería quedarse corto.
+                   Además, los baterías de jazz suelen ser una fuerza a tener en cuenta, no sólo manteniendo el tempo, sino también añadiendo síncopas y evolucionando la dinámica para impulsar la intensidad de una pieza.</p>
                 <button class="btn btn-success">Acerca</button>
             </div>
         </div>
@@ -47,7 +48,8 @@
         <div class="card" style="width: 18rem;">
             <img src="https://www.neoteo.com/wp-content/uploads/2021/02/pexels-pixabay-54615.jpg" class="card-img-top" alt="piano">
             <div class="card-body text-center">
-                <p class="card-text">El piano tiene una doble función en el jazz: ayuda a mantener el ritmo con acordes rítmicos y proporciona la base armónica sobre la que los instrumentos principales pueden improvisar.</p>
+                <p class="card-text">El piano tiene una doble función en el jazz: 
+                  ayuda a mantener el ritmo con acordes rítmicos y proporciona la base armónica sobre la que los instrumentos principales pueden improvisar.</p>
                 <button class="btn btn-success">Acerca</button>
             </div>
         </div>
@@ -56,7 +58,8 @@
         <div class="card" style="width: 18rem;">
             <img src="https://wallpapercave.com/wp/wp2067590.jpg" class="card-img-top" alt="saxalto">
             <div class="card-body text-center">
-                <p class="card-text">Con su sonido brillante, el saxofón alto suele utilizarse como voz principal. Tiene un amplio rango y una gran expresividad, por lo que suele utilizarse para solos galvanizantes.</p>
+                <p class="card-text">Con su sonido brillante, el saxofón alto suele utilizarse como voz principal. 
+                  Tiene un amplio rango y una gran expresividad, por lo que suele utilizarse para solos galvanizantes.</p>
                 <button class="btn btn-success">Acerca</button>
             </div>
         </div>

@@ -1,11 +1,11 @@
 <script setup>
 //metodos
-import HelloWorld from './components/HelloWorld.vue';
+import paginaWeb from './components/paginaWeb.vue';
 </script>
 
 <template>
  <!--estructura html-->
- <HelloWorld msg = "Vite + Vue" />
+ <paginaWeb/>
 </template>
 
 <style scoped>
